@@ -1,0 +1,4 @@
+In this project,
+A function named make_points is defined to give the desired end point coordinates of a line,given its slope and y intercept.
+Then the video is being fed into the program and various image processing techniques are applied to finally get the lines of 
+the road to be detected using the Hough Transform technique.
